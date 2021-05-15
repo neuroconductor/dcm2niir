@@ -14,3 +14,8 @@ README$
 makefile$
 
 ^configure\.win\.test$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
